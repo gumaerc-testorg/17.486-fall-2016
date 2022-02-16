@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 074d71ee-9c51-65c2-03ce-d5b36dd08043
 title: Briefing Paper and Oral Presentation
 uid: 2cf351ab-c5fb-9d25-76a2-5c118623674b

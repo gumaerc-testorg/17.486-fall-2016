@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: fReadings
 uid: ffd1d94a-c0d0-020f-c3aa-e23bc1f99394
 ---

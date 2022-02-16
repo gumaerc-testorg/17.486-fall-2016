@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 074d71ee-9c51-65c2-03ce-d5b36dd08043
 title: Scenario Paper
 uid: b4206ed7-2bb0-5dd0-16f1-1fc3330268b1
