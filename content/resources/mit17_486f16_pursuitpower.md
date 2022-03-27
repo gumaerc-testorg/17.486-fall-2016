@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: "Book Pr\xE9cis"
 parent_type: CourseSection
+parent_uid: 23f3afd2-49bb-45cc-68d4-11487446c316
 resourcetype: Document
 title: "Pr\xE9cis: The Pursuit of Power"
 uid: 5deae863-6bd9-a9ad-b845-8b94920f5c00

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Scenario Paper
 parent_type: CourseSection
+parent_uid: b4206ed7-2bb0-5dd0-16f1-1fc3330268b1
 resourcetype: Document
 title: East-Asia in 2050
 uid: 2daeefeb-72e3-996e-d2f9-0e670a69a534
