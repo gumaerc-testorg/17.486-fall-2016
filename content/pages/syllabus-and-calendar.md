@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course syllabus and course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -32,7 +33,7 @@ Assignments
 *   A longer briefing paper (up to 25 pages)
 *   An oral presentation in class
 
-For more information on the course assignments, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the course assignments, see the {{% resource_link 074d71ee-9c51-65c2-03ce-d5b36dd08043 "Assignments" %}} section.
 
 Active, informed seminar participation will be a large part of the student evaluation.
 
@@ -45,7 +46,7 @@ Samuels, Richard J. _Securing Japan: Tokyo's Grand Strategy and the Future of Ea
 
 Smith, Sheila A. _Intimate Rivals: Japanese Domestic Politics and a Rising China_. Columbia University Press, 2016. ISBN: 9780231167895.
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link ffd1d94a-c0d0-020f-c3aa-e23bc1f99394 "Readings" %}} section.
 
 Calendar
 --------

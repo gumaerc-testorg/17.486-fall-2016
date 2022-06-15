@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes information on the briefing paper and oral presentation
+  assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
