@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section includes information on the scenario paper assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 074d71ee-9c51-65c2-03ce-d5b36dd08043
 title: Scenario Paper
 uid: b4206ed7-2bb0-5dd0-16f1-1fc3330268b1
@@ -26,6 +31,6 @@ This paper is due during Session 7.
 
 ### Student Example
 
-["East-Asia in 2050." (PDF)]({{< baseurl >}}/resources/mit17_486f16_eastasia2050)
+{{% resource_link 2daeefeb-72e3-996e-d2f9-0e670a69a534 "\"East-Asia in 2050.\" (PDF)" %}}
 
 This example appears courtesy of a MIT student and is anonymous by request.
