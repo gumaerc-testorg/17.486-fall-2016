@@ -19,7 +19,7 @@ uid: ffd1d94a-c0d0-020f-c3aa-e23bc1f99394
 
 \[SM\] = Smith, Sheila A. *Intimate Rivals: Japanese Domestic Politics and a Rising China*. Columbia University Press, 2016. ISBN: 9780231167895.
 
-Readings with an asterisk (\*) can be used for the précis assignment. See the {{% resource_link 074d71ee-9c51-65c2-03ce-d5b36dd08043 "Assignments" %}} section for further detail.
+Readings with an asterisk (\*) can be used for the précis assignment. See the {{% resource_link "074d71ee-9c51-65c2-03ce-d5b36dd08043" "Assignments" %}} section for further detail.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -217,7 +217,7 @@ Japanese Foreign Economic Policy
 
 Armstrong, Shiro, and Peter Drysdale. "[Japan's Foreign Economic Policy Strategies and Economic Performance](https://academiccommons.columbia.edu/catalog/ac:179343)." Columbia Business School, Center on Japanese Economy and Business, Working Paper Series, no. 340, October 2014.
 
-Baldwin, Richard. ["21st Century Regionalism: Filling the Gap between 21st Century Trade and 20th Century Trade Rules." (PDF - 1.1MB)](http://cepr.org/sites/default/files/policy_insights/PolicyInsight56.pdf) Centre for Economic Policy Research, Policy Insight no. 56, May 2011.
+Baldwin, Richard. "[21st Century Regionalism: Filling the Gap between 21st Century Trade and 20th Century Trade Rules](https://cepr.org/publications/policy-insight-56-21st-century-regionalism-filling-gap-between-21st-century-trade-and)." Centre for Economic Policy Research, Policy Insight no. 56, May 2011.
 
 Dent, Christopher M. "[Free Trade Agreements in the Asia-Pacific a Decade On: Evaluating the Past, Looking to the Future](https://doi.org/10.1093/irap/lcp022)." *International Relations of the Asia-Pacific* 10, no. 2 (2010): 201–45.
 
@@ -259,7 +259,7 @@ Samuels, Richard J. "Never Waste a Good Crisis." Chapter 2 in *3:11: Disaster an
 
 ———. "Dueling Security Narratives." Chapter 4 in *3:11: Disaster and Change in Japan*. Cornell University Press, 2013. ISBN: 9780801452000. \[Preview with [Google Books](http://books.google.com/books?id=2KqdDgAAQBAJ&pg=PA80=onepage)\]
 
-Tamogami, Toshio. ["Was Japan an Aggressor Nation?" (PDF)](http://ronbun.apa.co.jp/images/pdf/2008jyusyou_saiyuusyu_english.pdf) 2008.
+Tamogami, Toshio. ["Was Japan an Aggressor Nation?" (PDF)](https://ajrf.jp/ronbun/pdf/vol01_eng.pdf) 2008.
 
 ### Suggested
 
@@ -337,7 +337,7 @@ Johnston, Alastair Iain. "[What (If Anything) Does East Asia Tell Us About Inter
 
 Samuels, Richard J., and James L. Schoff. "[Japan's Nuclear Hedge: Beyond 'Allergy' and Breakout](http://www.nbr.org/publications/element.aspx?id=705)." *Political Science Quarterly* 130, no. 3 (2015): 475–503.
 
-Smith, Paul J. "[The Senkaku / Diaoyu Island Controversy: A Crisis Postponed](http://www.questia.com/article/1P3-2953602971/the-senkaku-diaoyu-island-controversy)." *Naval War College Review* 66, no. 2 (2013): 27–44.
+Smith, Paul J. ["The Senkaku / Diaoyu Island Controversy: A Crisis Postponed." (PDF)](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1369&context=nwc-review) *Naval War College Review* 66, no. 2 (2013): 27–44.
 
 ### Suggested
 
@@ -351,7 +351,7 @@ Kang, David C. "[Getting Asia Wrong: The Need for New Analytical Frameworks](htt
 
 \* Morris-Suzuki, Tessa. *Exodus to North Korea: Shadows from Japan's Cold War*. Rowman & Littlefield Publishers, 2007. ISBN: 9780742554429. \[Preview with [Google Books](http://books.google.com/books?id=DQwfAAAAQBAJ&pg=PAfrontcover)\]
 
-["Report of the Advisory Panel on the History of the 20th Century and on Japan's Role and the World Order in the 21st Century." (PDF)](http://www.kantei.go.jp/jp/singi/21c_koso/pdf/report_en.pdf) August 6, 2015. *(Read pp. 22–31.)*
+["Report of the Advisory Panel on the History of the 20th Century and on Japan's Role and the World Order in the 21st Century." (PDF)](https://www.cas.go.jp/jp/seisaku/21c_koso/pdf/report_en.pdf) August 6, 2015. *(Read pp. 22–31.)*
 
 Samuels, Richard J. "['New Fighting Power!': Japan's Growing Maritime Capabilities and East Asian Security](http://www.jstor.org/stable/30130519)." *International Security* 32, no. 3 (2007 / 2008): 84–112.
 
