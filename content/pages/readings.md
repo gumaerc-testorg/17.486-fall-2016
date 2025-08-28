@@ -115,7 +115,7 @@ Rose, Gideon. "[Neoclassical Realism and Theories of Foreign Policy](http://www.
 
 \* Gilpin, Robert. *War & Change in World Politics*. Cambridge University Press, 1983. ISBN: 9780521273763. \[Preview with [Google Books](http://books.google.com/books?id=2iKL7zr3kl0C&pg=PAfrontcover)\]
 
-Herbert, Hilary A. "[Military Lessons of the Chino-Japanese War](http://ebooks.library.cornell.edu/cgi/t/text/pageviewer-idx?c=nora;cc=nora;rgn=full%20text;idno=nora0160-6;didno=nora0160-6;view=image;seq=0701;node=nora0160-6%3A6)." *North American Review* 160, no. 463 (1895): 685–99.
+Herbert, Hilary A. "[Military Lessons of the Chino-Japanese War](https://www.jstor.org/stable/25103536?seq=1)." *North American Review* 160, no. 463 (1895): 685–99.
 
 Kohno, Masaru. "[East Asia and International Relations Theory](https://doi.org/10.1093/irap/lct024)." *International Relations of the Asia-Pacific* 14, no. 1 (2014): 179–90.
 
