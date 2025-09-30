@@ -23,7 +23,7 @@ Be sure to assess the international, domestic political, national security, econ
 
 These papers should not exceed 10 pages in length. To help your scenario building, you might read:
 
-Tetlock, Philip E., and Aaron Belkin. "Counterfactual Thought Experiments in World Politics: Logical, Methodological, and Psychological Perspectives." Chapter 1 in _Counterfactual Thought Experiments in World Politics_. Princeton University Press, 1996. ISBN: 9780691027913. \[Preview with [Google Books](http://books.google.com/books?id=UyMXon0JmBsC&pg=PA3=onepage)\]
+Tetlock, Philip E., and Aaron Belkin. "Counterfactual Thought Experiments in World Politics: Logical, Methodological, and Psychological Perspectives." Chapter 1 in _Counterfactual Thought Experiments in World Politics_. Princeton University Press, 1996. ISBN: 9780691027913. \[Preview with {{% resource_link "707d8c24-f443-41cf-810c-f27fb7e256bc" "Google Books" %}}\]
 
 Think outside the box!!!
 
