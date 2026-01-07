@@ -42,7 +42,7 @@ Required Text
 
 Pyle, Kenneth B. _Japan Rising: The Resurgence of Japanese Power and Purpose_. Public Affairs, 2008. ISBN: 9781586485672.
 
-Samuels, Richard J. _Securing Japan: Tokyo's Grand Strategy and the Future of East Asia_. Cornell University Press, 2008. ISBN: 9780801474903. \[Preview with {{% resource_link "a33123f5-d3a8-4ac6-a90c-0ef4bc8fe686" "Google Books" %}}\]
+Samuels, Richard J. _Securing Japan: Tokyo's Grand Strategy and the Future of East Asia_. Cornell University Press, 2008. ISBN: 9780801474903. \[Preview with [Google Books](http://books.google.com/books?id=whqvYdDz3D4C&pg=PAfrontcover)\]
 
 Smith, Sheila A. _Intimate Rivals: Japanese Domestic Politics and a Rising China_. Columbia University Press, 2016. ISBN: 9780231167895.
 
